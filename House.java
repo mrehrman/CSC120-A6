@@ -60,7 +60,7 @@ public class House extends Building {
   }
 
   /**
-   * Lets a reisdent move out of a House by removing their name from the ArrayList that stores residents.
+   * Lets a resident move out of a House by removing their name from the ArrayList that stores residents.
    * @param name The name of the resident to move out of the House.
    * @return The name of the resident that has moved out of the House.
    */
